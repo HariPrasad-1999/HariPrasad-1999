@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hari Prasad!
 - 👀 Passioned about Data Science & aspire to become Data Scientist.
-- 🌱 I’m currently learning Machine Learning algorithms using Python & working on some Responsive Website development.
+- 🌱 I’m currently learning Machine Learning algorithms using Python & working Data Science Projects.
 - 💞️ I’m looking to collaborate on open source data science projects
 - 📫 How to reach me - https://www.linkedin.com/in/hari-prasad-b84b20190/
 
