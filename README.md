@@ -16,3 +16,27 @@ In my free time, I love watching anime & documentaries, exploring astronomy, and
   - [LinkedIn](https://www.linkedin.com/in/hari-prasad-b84b20190/)
   - [Email](mailto:hariprasadrofficial@gmail.com)
   
+
+
+
+
+
+<!---
+HariPrasad-1999/HariPrasad-1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-jaisankar&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HariPrasad-1999&theme=radical)](https://git.io/streak-stats)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-jaisankar&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<p align="center"> 
+  Visitors(from Jan 01, 2021):<br>
+  <img src="https://profile-counter.glitch.me/HariPrasad-1999/count.svg" />
+</p>
+
+--->
