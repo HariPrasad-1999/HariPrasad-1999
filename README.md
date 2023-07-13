@@ -1,10 +1,18 @@
-- 👋 Hi, I’m Hari Prasad!
-- 👀 Passioned and interested in AI, Quantum, Blockchain and Cloud services   
-- 🌱 Working as Support Engineer II at Amazon  
-- 💞️ I’m looking to collaborate on open source data science projects
-- 📫 How to reach me - https://www.linkedin.com/in/hari-prasad-b84b20190/
+## Hi!
 
-<!---
-HariPrasad-1999/HariPrasad-1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Hari Prasad. I love to learn new things and am open to talking about anything 😄
+
+In my free time, I love watching anime & documentaries, exploring astronomy, and reading the best books of my time.
+
+## Former Roles
+- Support Engineer II, [Amazon](https://aws.amazon.com/?nc2=h_lg)
+- Data Science Intern, [Hamoye AI](https://www.linkedin.com/company/hamoyehq/)
+
+## About me
+- Currently, I'm working on a project based on Kubernetes Integration with GCP and AWS
+- Learning about MLOps and its tools 
+- I’m looking to collaborate on open-source, Machine Learning Projects, APIs and Cloud Infrastructure design.
+- How to reach me:
+  - [LinkedIn](https://www.linkedin.com/in/hari-prasad-b84b20190/)
+  - [Email](mailto:hariprasadrofficial@gmail.com)
+  
